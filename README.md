@@ -18,7 +18,7 @@ Copy code
 
 ```javascript
 // Import the isInteger function
-const { isInteger } = require("my-utility-functions");
+const { isInteger } = require("@magloo/utility-functions");
 
 // Check if a value is an integer
 console.log(isInteger(5)); // Output: true
