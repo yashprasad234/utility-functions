@@ -44,7 +44,7 @@ console.log(isInteger(3.14)); // Output: false
 
 ## Contributing
 
-Contributions are welcome! If you have suggestions for new features or improvements, feel free to open an issue or submit a pull request on GitHub: .
+Contributions are welcome! If you have suggestions for new features or improvements, feel free to open an issue or submit a pull request on GitHub: https://github.com/yashprasad234/utility-functions.
 
 License
 
